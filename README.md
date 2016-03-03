@@ -1,5 +1,4 @@
 
-<sup>we're on [RaGEZONE](https://forum.ragezone.com/f331/yupi-6-rosylin-mysql-based-1087279/)</sup>
 <pre>
                           _ ___  _ ____  _____ _     ____  _     _     _____  _  ____  _     
                          / |\  \///  __\/  __// \ |\/  _ \/ \   / \ /\/__ __\/ \/  _ \/ \  /|
